@@ -1,0 +1,407 @@
+author,comment
+Rohit M,"The way you teach programming is really nice!  Its very basic, it is paced very well, and it is very logical. In addition you use code snippets that are really concise. Many other videos are either too fast, or too slow, or often simply lack the logic. 
+
+Often times one can see videos, or written programs but when the teacher doesn't tell why it should be done in a certain way, the inspiration is missing, and then it is very tempting to pick up bad habits that may look simpler, but are inefficient methods.
+
+Keep up your good work, and every now and then when I will look for efficiency, I will search for your name :) 
+Now I wish you were a data scientist at Intel where I work."
+Armin Hemati,Perfect Explanation + Good Examples + Good tempo + Nice voice . thank you corey
+Jeff_Mci_Gaming,"Your hands down the best damn online-teacher i've seen yet...there was one other dude on Udemy , but you've surpassed him...Your videos makes programming twice as fun because you explain things so easily for ppl to understand...I can see how this would result  in a person  spending hours at the keyboard,  generating new ways to implement their code with their newly-learned information ( at least that's what your videos have  done for me!! lol)....thanks for your hard work, Corey."
+saitaro,Wow now I can decorate my decorators while I'm using my decorated functions
+Caio Madalon,"The proper way to never forget how decorators work is just keeping in mind what that '@' syntax means: 
+
+
+
+@decorator
+
+ def function():
+
+    ...
+
+
+
+is equivalent to: function = decorator(function)."
+Glad to Be Normal,You could be the best instructor in the entire world... nice flow!
+Omar Sosa,"Dude, I seriously hope someone, somewhere, is paying you a lot of money for your knowledge xD"
+felix lucaciu,Thank you Corey! Your tutorials are surpassing even the ones offered by Pluralsight!
+A. Bobs,This is the best explanation of decorators that's I've come across.  Kudos!
+Ajitesh Sinha,"First thing I did is like the video...
+P.S---- Watched it later
+That's how good you are....best teacher available.
+A doubt...do we need return result in my_timer function..i mean even if we dont use return the o/p is same....since we have already included executed display_info()..it will print the contents of display_info() without return..... Correct me if I m wrong:: We need to include a executed decorated function in wrapper function and if wrapper func contains some code including executed decorator func.....then do we still need to return anything from wrapper function"
+James Brown,by far the best tutorials for python i've come across
+mperta lulaki,your python tutorials are works of art; really concise and educational; thanks
+Alex Cooper,"""A decorator is just a function that takes another function as an argument, adds some kind of functionality, and then returns another function."""
+Aria A,Crystal clear! I finally get decorators! Thank you very much!! :D
+Shanmuga Raj,"Corey, You are a hero! Thank you so much for these videos, these are the best Python videos I have seen. Your teaching methodology is second to none. Thank You!!!"
+Opiyo Sebastian,You not good but great! Keep up the good job Professor Corey!
+swapna s,"The best python tutorial I have come across, you saved my life. Thank-you Corey"
+Tyler Welch,"A 30 min video typically turns into a 2 hour video, even while being the best decorator explanation on youtube."
+Chayan Mitra,Thankyou so much for this awesome decorators tutorial..really well explained..learned so much from it !
+HexagonalClosePacked,Thank you. Finally understand what the @ sign does before a function!
+Akshay Deshmukh,Very elaborately explained...very much understandable. Good Work
+Suyash Dayal,"This was an excellent tutorial video on decorators. I have watched a lot of videos as well as read a countless number of articles/blogs on the topic... And, yet I haven't seen this kind of fluency... I absolutely love how your structure and organize your videos and then, deliver them with great control on the tempo...
+
+
+At no point, I felt lost or thought to myself, I couldn't understand the concepts being shown on the screen... I consider your channel to be the best Python based channel on YouTube... While I do admire a lot of other channels, like Dan Bader's and the likes, but somehow your impeccable didactic skills make your channel a must for any Python developer, especially beginners...
+
+
+Please keep doing your excellent work... And, I read your interview (that you gave on RealPython.com) and I really appreciate that you have granted access to everyone... So, young learners (especially students who are not financially capable) who are unable to pay the premium to gain access to high-quality resources on Python."
+Arman Gill,"For those who have just watched the videos on first class functions and closures, video starts at 4:40."
+Blek Ulv,"Corey, you never cease to amaze me!
+I had seen and read several videos and docs about decorators, but I always ended with doubts and more questions. But I think I finally understand very well all I need to know about decorators. Thanks for your videos!!!"
+Christopher Columbus,For me this was very confusing to learn but after watching this video 30 times i finally understand it. I would have for sure been left behind in school.
+Kamol Usmonov,"That is so good man, I'm impressed by that ) Thanks so much!"
+Xiao Lu,Very clear explanation. I already knew how to use a number of decorators but this is a great review for me to understand the decorators better. Thank you.
+krishna kanth,OMG !!!!...You made my day...Best video so far on Decorators...My search ends now :)
+ΧΡΙΣΤΙΝΑ ΤΣΙΝΙΚΟΠΟΥΛΟΥ,Thank you Corey. Excellent videos.
+Luke Wells,Feels a bit like the first time I saw inception.
+Songtao,So helpful! I finally understand decorators. What a brilliant explanation.
+Stan Ihesiulo,"you are the khan academy of programming. may I say, even better?"
+Cj Mashego,Wow!!! this is the best tutorial I've watched about decorators
+Piotr Wladyka,Clear explanation giving proper focus on useful utility.
+Orso De Vero,You nailed it with this videos! Very clean and clear explanations.
+Rocky,"hell, you explain so well :O"
+Math Jon,"hope to see you giving lectures in defcon ,someday"
+Tommy Borgelin,"Great video, helped a lot. It's really complicated stuff for a brand new Python-newbie like myself."
+Bijou Smith,Excellent teacher and very friendly to post your notes.  Thanks.  You're awesome.
+Ponnuvel P,"I have suggested your tutorial to all of my friends. you are helping many people keep doing , thanks a lot from india."
+James Frank,You have got to be one of the best teachers I have ever come across.  You explain complicated concepts extremely well. Thank you for your time and effort
+Zhiwei Peng,Thanks a lot for these videos. This is very well explained.
+Naresh Chandrasekaran,"Hi,
+Your Python examples are very helpful and precise for understanding,
+please put a video for Xml file handling."
+Narek Isaghulyan,"Corey, amazing tutorials. every time I see you have a tutorial regarding the topic I'm looking for I already know I'll understand it. You should do this full-time. I'll donate :)"
+Mr. Kennedy,Mighty powerful stuff here! Thank you for the excellent explanation and practical examples!!!
+Thunder426,"Well explained, made easy, very helpful. Thanks for the video."
+R M,"I definitely need to wrap my mind around wrappers, you made this task easier though. Thanks!"
+R. Gomes,"Worthy material,  good job. Thanks."
+Jason Clement,These python tutorials are the best on youtube.
+Justin Ma,"Great and clear. 
+
+This helped with supplementary reading. 
+
+Thanks for these videos"
+o yahya,"Perfect, so far the best touter in youtube, i am not going to mention what others mentioned coz it's all true. Good job and keep up"
+Tega Okeremeta,"Great job, well explained , thank you."
+Manoj Kumar,"A million Thanks, Corey"
+shashidhar devraj,Thanks a lot for this video. You are really awesome. I was struggling to understand this concept.
+Kristian Mandrup,This is also known as Higher Order Functions (HOF)
+manisha,You are awesome. the explanation is crystal clear !
+SecDevOpsAI,Extremely clear explanation of decorators.  Thanks for taking the time to create this!
+Rijo Alex,"First off, Amazing Video; really well explained!! I spent the whole day trying to understand what decorators & closures were until I came across your videos. I don't think that this video was particularly long for it's nature of intuition and complexity. Thank you so much, Corey!! Subbed for life :D"
+דני קונופליה,"This is an another example of the very common witty remark.Thing is not complicated as it looks from a first glance, we only need a proper man who can explain it clearly. You are the man ! Thank you very much!"
+LA AL,"This is the first contact for me with decorators and surprisingly i have got it completely, that's rarely happen to me specially with such complicated concept, usually I need a week at least and tons of resources to make sense out of it.
+Your videos invaluable treasure, We couldn't thank you enough no matter how many times we say thank you.
+You are literally my hero."
+Timur Babadjanov,You explain this shit better than most of the professors in my school! Thank you Corey!
+Mark M,"this stuff gets confusing, but you do a great job explaining!"
+Monde Ngalonkulu,"Hey man, thanks so much for this.
+I'm honestly in awe of how much I understand after watching your tutorial.
+
+I'm a Python beginner and I'm implementing some tests+utils for a company's Java application. So there I have a function that I use to time other functions (that take info from csv files to database) - much like the one you have in the example! So I've updated that to a decorator. :-D
+Above that, now I understand what's happening when Flask uses things like @app.route, etc
+
+Anyways, thanks so much.
+And I must say, I'm really enjoying Python"
+Sudarsan D,Hey Corey nice tutorial on one of the core concepts of python.
+Kelvin Quinonez,These tutorials are amazing!!!
+Anil Dhar,"I have been sitting at home not much to do. So, I decided to do something useful rather than wasting my time. I chose to learn Python. It is now about  four weeks since I have been watching your Python tutorial videos. At this stage, I could call myself a basic level Python programmer. All because of the excellent videos and your stellar teaching method. So, a BIG THANK and may god bless you.
+
+
+I have a question though about this video.  
+
+
+Why does it print ?
+
+
+display_info ran with arguments (Tom, 22)
+
+
+display_info ran in: 1.0004289150238037 sec
+
+
+
+Why not in this order?
+
+
+display_info ran in: 1.0004289150238037 sec
+display_info ran with arguments (Tom, 22)
+
+
+
+Shouldn't it  first execute @any_time decorator and then the function display_info(). Am I confusing myself?  Appreciate your response."
+Anum Sheraz,"Nicely explained. Infect, excellent teacher you are ! 
+Thanks a bunch."
+Hafidz Jazuli,"Thank you, you are give very straight forward walk trough and easy to follow explanation."
+Bassam TK,you are billiant teacher
+Luke Bligh,"Hi Corey, first of all amazing tutorial, but i was wondering if you - or someone else - could explain what exactly the @wraps decorator actually does? 
+thanks - Luke"
+Prashant Brahmbhatt,The way you do is pure art!
+Lucas Costa,You are a great teacher! Thank you for making simple videos with easy explanations on these concepts. Its so hard to find someone that won't make it more difficult than it needs to be.
+Pavan Kumar,"hi Corey
+fantastic i have been following entire python tutorial can u upload some scripts on how to crawl a data from websites using some python lib"
+Mehul Jadav,"display()
+
+TypeError: 'NoneType' object is not callable"
+Egor Fedorov,Well understandable. Awesome!!!
+Mostafa Alshaboti,"That's the easiest and the best explanation I have ever found. 
+Thanks A LOT."
+Shweta Rajani,Very Efficient Tutorial 👍🏻👍🏻
+Aerin Kim,Ah this is the best tutorial about the decorators. thank you..
+Anindya Sundar Manna,You sir are a great teacher! Very useful examples with clear explanations. Thank you for these tutorials. :)
+Anindya Sundar Manna,You sir are a great teacher! Very useful examples with clear explanations. Thank you for these tutorials. :)
+Amy Sandstrum,Look at the logging tutorial from Corey if youre confused about the alst 1/3 part of the video.
+Nightorian,"Without your explanation, my mind going to explode haha"
+Raj Singh,your way of teaching is superb .........nice explanation sir
+,"Decorators feels like an inverted 8
+my brain hurts"
+Sachin Patil,Excellent... Thank you Corey.
+uday bhagwat,Really learnt a lot from you!! Thanks so much!!!
+Pixelated Unicorn,"Okay.. as he said I've watched his videos on first class functions and closures. Now, I can finally watch this video! : ))"
+Bowen Wang,Best programming teacher on YouTube
+Classical Fun Facts,"What is your name?
+Let me guess,
+
+
+John?"
+GrayCyberMonk,You are really Killing. I am trying to understand Decorator more than 2 months. But after your tutorial. Every this is clear. Respect.
+Fly5ch,Just a simple like doesn't do this justice. Excellent explanation!
+Liangyu Min,nice tutorial!!
+smanolito,Your Python tutorials are big eye openers.
+Sampada Khandekar,Hi Corey! Amazing tutorial as usual! But can you explain how the @wraps(original_function) preserves the information of the original function?
+Gary Jeffers II,Thanks for your great videos. I'm still trying to wrap my head around closures and decorators and your videos are helping greatly.
+Liqing Wang,Amazing tutorial! Love it!
+The Flying Egg,Great content as always.
+Michael Dymshits,"Hi Corey,
+
+1. First of all- very nice!
+2. Do you have some repository with a code from the video?"
+Other Guy,"Heyy Everybody How is Going going??
+
+Me:Like Python"
+d_learner,You are an inspiration for me. I learn from you things that look impossible to learn for me. Thanks a lot.
+Harika Macharla,You are too good at teaching. That's only possible when you have a clear idea of every minute thing happening and the order in which it happens. Hats off! and thanks for taking your time and teaching such complex content in such an easy way.
+uma garg,very well explained. you are the best teacher
+balk ball,"you forget to explain what is ""@wraps(orig_func)"". in this video you don't say any thing about Parentheses after a decorator name ..."
+Weimin Wang,Best explanation of decorator!
+mohamed subhi bouchi,"the best explaining i have ever seen, thx."
+miguel ortiz,">> corey == ""the GOAT""
+True"
+Deepak N Pawate,"Thanks a lot for your explanation on decorators, helping millions to learn the difficult topic in easy way."
+Pradeep Kumar,"This is best explanation on decorators, your all the videos are great. Thanks for putting it on you tube for people like me."
+abhishek Singh,Extreme example and knowledge on decoraters all doubts clear 👏
+Youssef NAIMI,"thank you, well explained"
+Suhail Ahamed,"I just walked through this video regarding decorators, additionally i knew what are Clousers and First Class functions....Really, ur teaching is awesome Sir. Thank you"
+Ken Meyer,Awesome explanation. You are a great teacher.
+dibya ranjan mishra,Man You are amazing!!
+Bish Bish,Finally I see the light....!:D
+rajkumar singh,a blessing to the programmers! :)
+Anand Joshi,your explaination is perfect.
+Someone,brain.exe has stopped trying to work
+pmtycoon,"Folks - many things are nested within each other, go slow with this video, pause as required, repeat and you shall get it... I spent about an hour to get my head wrapped around the wrapper and wraps decorators."
+Aman Maldar,1:25 The variable 'message' wasn't created inside the inner_function but inner_function does have access to message variable. This is called free variable. Spot on. Thanks for the awesome description.
+Prateek Paranjpe,You are real deal @Corey!! Thanks for the tut.
+Jerry Barnes,"Thank you so much, Corey, for sharing your knowledge!
+I find that your teaching style really suits my learning style!
+Thank you, thank you, thank you!"
+Lightning in My Hands,"27:35 - ""yo dawg, I got wraps for your wraps"""
+Saitom Sai,Thank you Sir ! you made my day by learning a new python concept !
+EchoesFromNepal,You have a great explanation technique. Now I'm clear about decorators.
+Daniel Florez,"The subtitles don't work  :,,v"
+Savage FPV,King of explanation
+wei so,decorator should be called inceptionator instead....
+sams manik,Great video Corey...Well thought-out tutorial...keep it up
+Rui Xu,best tutorial for python!!!
+Pantelis Karamolegkos,"At about 12:15, Is the return statement for the original_function within the wrapper function necessary? Doesn't this stops us from adding functionality AFTER the execution of the original function? e.g.
+
+1. def decorator_funcion(original_function):
+
+2.    def wrapper_function():
+3.       print(""Before Decorator"")
+4.       original_function()
+5.       print(""After Decorator"")
+6.
+7.    return wrapper_function
+
+If we add a return statement in line 4, line 5 will not be executed, right?"
+Mikhail Lyapich,"Nice video, dude! Realy helpful.
+Can you please explain metaclasses in the next videos?"
+abdallah elkasass,you are  awesome Corey >3
+Sumit Singhal,"Hi Corey,
+
+Your videos are just awesome.
+They made learning python really fun for me.
+I am requesting you to add videos in these topics too.
+Descriptors
+MetaClasses
+More in Magic Methods"
+VIRAJ BHOSLE,Top quality content. Thanks a lot!
+Nahian Al Hasan,What a legend.
+HypergeometricTest,functions within functions within functions.
+karthikeyan mg,"Sould we explicity say  "" return original_function()""  inside wrapper function and then again return wrapper_function.
+Cant we just say ""original_function()"" inside wrapper_function instead of ""return original_function()""
+Because any way wrapper_func is returned"
+wilk85,Well you're very good teacher Corey but this is so confusing :(
+Murmad Man,"Good summary of closure, first class functions and their relationships at beginning of video
+decarator- takes function as an argument and returns function without altering the original function's code
+
+ point
+
+ original decorator function with display function passed in
+
+ self.original_function= original_function ties function with instance of class
+
+ @my_logger allows you to add logging function to any function, takes the repetition out of logging 
+ best decorator summary
+ you are running the function in result=, you are NOT returning the result
+
+timer function adds timer functionality to function you pass in
+
+@wraps wraps the original function, so you can pull up the appropriate name etc of the original passed in function instead of the 'return WRAPPER' of the wrapper function. you put @wraps in front of sub wrapper function"
+Chayo Pérez,Awesome video! I have an exam in like an hour and you actually made me understand the contents :D You are a very good teacher. I'll definitely watch more of your videos when I'm less in a hurry :)
+Stephan Abs,"Thanks mate, great explanation"
+Yan Le,"Geat videos, looking forward to hear your explianation for descriptor"
+Gyan,"As per my understanding closure allows to execute the function if any function which is used without closures will return the 
+defination of the function"
+Kema_o_o,Great tutorial.  I finally understand Decorators now.
+SalRite,"@Corey, thanks for another great video. I do have some doubts:
+what does it mean many people say C (language) wraps Python? Or this thing is just a Wrapper on that.
+Also, Do you have any video on Multithreading and its use?"
+Michael Dymshits,"The videos are very nice!
+
+Possible suggestion for improvement:
+
+I would split this video into 2 videos.
+
+The ""double decorator"":  
+
+@my_logger
+@my_timer
+
+and its motivation is less clear"
+Gia Phat Ha,"thanks man, I was very confused about this a week ago. btw, what IDE do you use? The font seems nice"
+Goutham Anush Aenugula,I have watched several videos and read several websites to know about decorators but no one could explain me clearly the functionality of a decorator. Now it's crystal clear :)
+Francisco Gonzalez,"The video is really good, but one question, how do you comment so fast without placing the cursor at the beginning? Thank you in advance!"
+ansari imtiyaz ahmed Khadim Husain,Very well explained .. keep it up
+biophr34k,"Hands down, best viedo on Python decorators in my humble opinion. Thanks a lot and congratulations!"
+Satheesh kumar,"I am not sure why I get this syntax error for Decorator class: please advise
+   @decorator_class
+
+TypeError: decorator_class() takes no arguments
+
+
+
+Process finished with exit code 1"
+Jorge E.,Why do you import the logging and time modules inside the functions??  It seems redundant doesn't it? Or am I missing something?  Great video btw.
+martin maurer,"Such a champion you are making even me understand something a complex as decorators. Thatßs close to impossible, but for some reason I totally get what you teach."
+fadi ksasbh,its the same for callback in javascirpit?
+vinod kashyap,Amazing Thank You Sir
+Priyam Nigam,"Please upload tutorials of 'Asynchronous Python Development '. ie. Process and Threads used in python, ThreadPoolExecutor, ProcessPoolExecuter etc. 
+
+thanks, in advance"
+Zero,This is my favorite anime.
+Shanene Larissa,"Excellent video and explanation!
+It is fun to notice that we had this same behavior in javascript since ever. The ""problem"" is just javascript..."
+Kazuma Yoshiyuki,"great job mate, but what's the editor you are using ?"
+safeeq ahmed,"Thanks for the awesome video. Can you please let me know if the original function can be executed as it is after being decorated? I mean, if I want the display function to just print “display function ran” after decorating it, how can I do that?"
+Aaron Howard,"Good videos but try to break videos up, 30 mins is a little long."
+Shri Kanase,Amazing tutorial but I'm having a little trouble understanding how the @wraps decorator made it output the statements correctly. Could you explain that?
+Ian Drago,"First time I watched = brains smaked against the wall 90%
+Second time I watched = brains smaked against the wall 80%
+Okay I'll have to watch this about 10 times to understand how to wrap the wrapped wrappers that are decorated by other wrappers.. lol"
+Alexander,Thank you for this video !
+Atlas Tech,This is a brilliant video!
+xu zeyuan,"I have one question: when in the end you are using the @wraps , and stack decorators, does it essentially apply the two decorators SEPARATELY to the original function? (instead of nesting the two together) . Thank you for the tutorial!"
+Saul Garza,"I learned more about decorators with you in the first 15 min than I did with my professor in the two weeks he taught. Bless up homie, need to ace this final in two day."
+Arindam Roychowdhury,Best Tutorial video ever. Perfect narration . Great Examples . Good luck .
+Saurabh Bagalkar,This guy is awesome!!!
+Rec1337,"Thank you Corey, for every video you made!!!"
+David M. Johnston,"I love you man, thank you so much, it's so much clearer now!"
+Narek Stepanyan,"Thank you from Spain. Your videos are really good and usefull.
+why do you need to import time or logging several time in the scrip?
+why it do not work if you import it only once at the top of the script?
+Thank you in advice"
+kuls43,"Sorry I am new to python but just wanna know why we need wrapper function here, why we can't do something like below.
+
+def decorator_func(original_func):
+        print(""some decorating message"")
+        return original_func()"
+Yi-hsiu Lee,You are a hero!
+kanakanayaham selvendira,Excellent Teaching. I have watched so many people tutorial but your's the best. Is there anyway I can get your scripts in the printable format  or download those tutorial files Please? It will be very handy.
+townheadbluesboy,Another great tutorial Corey - you're very good at explaining this.  Take me a couple of watches to understand it fully!
+Kevin Ryan,Fantastic tutorial on decorators really clear and intuitive.
+John Shen,Thanks! I finally understood this
+Mirian Andrew,Thanks a lot for helping  me without charge.
+pavan kumar juturu,"thanks a lot....watched first class functions, closures and decorators together helped me understand this topic much better...
+also i have seen decorators used inside a class also like @Getter and @Setter...can you please cover these in your upcoming OO Python videos?"
+Math Jon,you are the man
+Anthony Riggi,13:25  for using Decorators with Classes
+mathIsART,Beautiful tutorial.
+László Szoboszlai,i think i grasped the idea of decorators as my first two idea was to apply it to logging and timing... (before you started the examples)
+Hendro Yohanes,I came here because you told me in the OOP classmethods and staticmethods tutorial to understand decorators
+Giovanni,Fantastic tutorial! Decorators make sense for me now.
+nobody knows,"my wrapper function couldn't wrap head function before. After seeing your video my wrapper get's the head function to work :D :D :D good work mate, keep up"
+Stan Ihesiulo,"edit: nvm. I watched through the whole vid.
+
+one question. how is the decorator function different from closure? is it just that the argument passed in a decorator is a function instead of a standard argument as in the closure? I'm confused cuz they seem like essentially the same thing"
+Shibasis Patel,The best lecture I ever had..
+kanakanayaham selvendira,"Can you please provide the source code in the tutorial, please?"
+Shivansh Mishra,"why did you use **kwargs i cannot understand
+and instead of *args and **kwargs can i simply out there two variables 
+at 13:42"
+Asheesh Dhupper,">>> display()
+
+Traceback (most recent call last):
+
+  File ""<pyshell#53>"", line 1, in <module>
+
+    display()
+
+TypeError: 'NoneType' object is not callable
+
+I am getting this error when I executed the same code in idle"
+Atul Kumar,"Man seriously,are you aristotle or pythagoras or plato,awesome"
+RagHelen,Wouldn't it be better to not write any of these lines of code and just make t2 a constant with the value of 0?
+Boris Đurkan,Excellent! Thanks!
+Tobi DEGNON,"Hello there, awesome video as usual, I Have a question though.
+Despite how many times I think about it, I don't see the use of returning the original function in the wrapper function, even if we just call the original function in the wrapper without returning it at the end, it doesn't change anything, so l want to know if there is any need of returning the original function in the wrapper, thanks :)"
+Krishandan Shanmugasundaram,Excellent video. Perfect pace and selection of examples and use cases. Thank you very much
+Xin Li,Your video is awesome. Thanks.
+Abhishek Dhar,Crystal Clear concept ......loved your explanation......Decorator now is crystal clear to me
+Daniel Black,"I joined a team a few months ago as my first stint as a developer of any stripe. I'm working with a relatively mature codebase that needs a lot of love, in terms of docstrings, testing, and being able to run tests locally. I'd edited a few scripts to include logging and argument-parsing directives, but I knew there was a better way. I finally got around to looking at decorators and your video really helped me form an intuition. Thanks."
+novicetech1,"Hi Corey - This was awesome and very helpful. Please do more of these. As you know, I'm new to Python programming (programming period really) so I am always looking for practical ways to use what I learn and your videos are the only ones I use. Thanks."
+midinerd,ahhh the wrapper() def at 22:17 (for example) is using closure to keep the orig_func resolution without it being in the args list. ahhh thank you (realized this in your follow-up video higher order functions)  thanks!
+kanakanayaham selvendira,"Can we get the source code in the tutorial, please?"
+sunil sahu,Great explaination
+arvind kumar patel,You are really good. I have watched and liked each of your videos  on Python. Can you please add some videos on Python design patterns.
+Александр Михеев,Thank you very much!
+sodapopinski,so basically decorators turn variables into func????
+kapil sharma,please release videos on data science and machine learning. after your recent update i haven't seen any      new video
+Aram Hamidi,Best tutorial!
+digitalaks,"Just at the moment when I was getting question ""What if I want timer as well as logging?"" you come up with explanation for that. Wonderful mind reading of the viewer!"
+Reese C,regular expressions and decorators are definitely my most confusing parts of python and you easily helped them make sense!  Thank you.  They should call decorators PORTALS...that's basically what they are...it gives your function an easy portal to be used anywhere
+saustin98,"Well done, Corey. I'm just learning Python, and decorators were a bit hazy to me. You laid it out beautifully. Thanks!!!"
+Eidui X,"I like your video very much, it explains the concept clear and simple. Thank you"
+Robert Kinsey,"Nice tutorial, thank you, one thing I noticed, is that with the time example, if you don't put the time.sleep in, then the result seems to be random from 0.0001 to over 8 seconds, yet it is only taking a split second to run. Is there a reason for that, or have I just mistyped my code."
+tapp3r,"Definitely gonna have to watch this one a few times to really understand this, but it's a good one as usual - just a bit more advanced than I expected."
+Rodrigo Vieira,"Hey great video tutorial!
+Is that a way to decorate an object? And also add properties to this object through a decorator?"
+Minh Nguyễn,"Thank a lot for giving me the ideal about @... stuff, also when I looked the flask source code for app.route() decorator, I saw
+
+
+def route(self, rule, **options):
+       def decorator(f):
+
+            endpoint = options.pop('endpoint', None)
+
+            self.add_url_rule(rule, endpoint, f, **options)
+
+            return f
+
+        return decorator
+
+
+I think this is a very interesting case of which the explaination was given as below"
+George Paxson,It's just for decoration; that's it and that's all.   Woo Woo!
+Sravanthi kaja,"Hi Corey, I guess there is no need of return for call in original_function() in the Decorator as print is given in Original_function definition. Thanks a lot for your vedios."
